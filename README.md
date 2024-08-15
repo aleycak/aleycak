@@ -1,7 +1,7 @@
 - 👋 Hello everyone, I’m Aleyna 👩‍🦰 
 - 👩‍🎓 I'm studying Physics and Electrical Electronics Engineering at Koç University.
 - 👀 I’m interested in Quantum Physics, Data Analytics, and Fintech. 
-- 🌱 I’m currently learning Fundamentals at Ctrl+ Future Program.
+- 🌱 I attended Fundamentals at Ctrl+ Future Program organized by Koç Holding and Microsoft Turkiye.
 - 👩‍💻 I've taken Python, Matlab, C/C++, LTSpice, VHDL courses at school so far.
 - 📫 Reach me via acakir19@ku.edu.tr 
 
